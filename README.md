@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dbeckahm/rails-travis-example.svg?branch=master)](https://travis-ci.org/dbeckham/rails-travis-example)
+[![Build Status](https://travis-ci.org/dbeckham/rails-travis-example.svg)](https://travis-ci.org/dbeckham/rails-travis-example)
 
 # Rails Travis Example
 
