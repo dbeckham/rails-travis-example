@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/dbeckham/rails-travis-example.svg)](https://travis-ci.org/dbeckham/rails-travis-example)
 
+test
 # Rails Travis Example
 
 ## Overview
